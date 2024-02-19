@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BB6E25B8-3E35-455F-A47E-BC349390EB84"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8358787F-1C39-46D0-9238-D208F2D8A73B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Concurrency/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "8358787F-1C39-46D0-9238-D208F2D8A73B - 1b29a32e46767790"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;Concurrency.Post&gt;, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Concurrency.ViewController.fetchData() -&gt; ()"
+                  moduleName = "Concurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venki/Desktop/Practice/Unfinished/DUmmy%20projetcs/Concurrency/Concurrency/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "264">
+               </Location>
+               <Location
+                  uuid = "8358787F-1C39-46D0-9238-D208F2D8A73B - 1b29a32e46767790"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;Concurrency.Post&gt;, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Concurrency.ViewController.fetchData() -&gt; ()"
+                  moduleName = "Concurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venki/Desktop/Practice/Unfinished/DUmmy%20projetcs/Concurrency/Concurrency/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "39"
+                  endingLineNumber = "39"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18A7F500-394B-4E07-8AFE-3D0C6451303B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Concurrency/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "fetchData()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "18A7F500-394B-4E07-8AFE-3D0C6451303B - ad6ad22652efa373"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Concurrency.Post&gt;, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Concurrency.ViewController.fetchData() -&gt; ()"
+                  moduleName = "Concurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venki/Desktop/Practice/Unfinished/DUmmy%20projetcs/Concurrency/Concurrency/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "548">
+               </Location>
+               <Location
+                  uuid = "18A7F500-394B-4E07-8AFE-3D0C6451303B - 1b29a32e467677b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Swift.MainActor () -&gt; () in closure #1 (Swift.Result&lt;Swift.Array&lt;Concurrency.Post&gt;, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Concurrency.ViewController.fetchData() -&gt; ()"
+                  moduleName = "Concurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venki/Desktop/Practice/Unfinished/DUmmy%20projetcs/Concurrency/Concurrency/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "38"
+                  endingLineNumber = "38"
+                  offsetFromSymbolStart = "84">
+               </Location>
+               <Location
+                  uuid = "18A7F500-394B-4E07-8AFE-3D0C6451303B - ad6ad22652efa373"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;Swift.Array&lt;Concurrency.Post&gt;, Swift.Error&gt;) -&gt; () in closure #1 (Swift.Result&lt;Foundation.Data, Swift.Error&gt;) -&gt; () in Concurrency.ViewController.fetchData() -&gt; ()"
+                  moduleName = "Concurrency"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/venki/Desktop/Practice/Unfinished/DUmmy%20projetcs/Concurrency/Concurrency/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "572">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
